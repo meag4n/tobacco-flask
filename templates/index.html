@@ -1,0 +1,35 @@
+{% extends 'bootstrap/base.html' %}
+{% import "bootstrap/wtf.html" as wtf %}
+
+{% block styles %}
+{{ super() }}
+<link rel="stylesheet"
+			href="{{url_for('.static', filename='css/main.css')}}">
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Open+Sans&display=swap" rel="stylesheet">
+{% endblock %}
+
+{% block title %}
+Florida Youth Tobacco Statistics
+{% endblock %}
+
+{% block content %}
+<div class="container mb-3">
+  <div class="row">
+    <div class="col-md-12">
+  <h1>Florida Youth Tobacco Statistics</h1><br>
+  <p>Select a county to see its statistics regarding youth smoking habits and tobacco retailers.</p>
+
+</div>
+</div>
+
+	<div class="row mb-3">
+		<div class="col align-self-center">
+		<div id="choose">
+
+				{{ wtf.quick_form(form, action=url_for("info"), method="post") }}
+
+	</div>
+</div>
+</div>
+<footer><p>This project was made by Meagan DiPolo. Click <a href= "https://github.com/meag4n/tobacco-flask">here</a> to view it on Github.</p></footer>
+{% endblock %}
