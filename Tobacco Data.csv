@@ -1,0 +1,69 @@
+﻿`ID`,County,Tobacco,Cigarettes,Cigars,Smokeless,Hookah,Evape,Education,Rank,Population,Retailers,Density
+1,Alachua County,32.20%,10.40%,8.80%,5.50%,7.20%,25.10%,25%,43,254397,295,1.2
+2,Baker County,48.50%,23.90%,16.30%,17.20%,17.70%,38.40%,55.90%,33,27547,37,1.3
+3,Bay County,37.90%,17%,11.10%,6.60%,5%,30.90%,16%,8,174498,339,1.9
+4,Bradford County,40.80%,18.30%,14.70%,13.20%,11.80%,27.90%,22.90%,23,28992,42,1.4
+5,Brevard County,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,35,559028,748,1.3
+6,Broward County,30%,7.30%,6%,2.30%,10.80%,23.90%,28.30%,32,1803031,2306,1.3
+7,Calhoun County,40.10%,23.20%,12.90%,11.20%,5.40%,28.20%,59.60%,31,14976,19,1.3
+8,Charlotte County,34.80%,14.40%,8.90%,6.40%,6.20%,29.30%,28.70%,48,162805,188,1.2
+9,Citrus County,34.60%,17.20%,11.50%,10.10%,7.30%,27%,43.20%,49,143662,153,1.1
+10,Clay County,34.50%,12.90%,7.90%,6.80%,11.50%,29%,23.30%,65,196993,187,0.9
+11,Collier County,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,46,327988,397,1.2
+12,Columbia County,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,24,68910,97,1.4
+13,DeSoto County,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,47,35715,43,1.2
+14,Dixie County,47.90%,30.30%,17.80%,23.30%,11.10%,32.30%,39.80%,3,16675,37,2.2
+15,Duval County,34.60%,12.90%,10.70%,4%,13.70%,26%,38.80%,18,891036,1297,1.5
+16,Escambia County,34.90%,15.30%,9.30%,7.50%,6.10%,26.40%,28.30%,16,307889,493,1.6
+17,Flagler County,35.10%,14.80%,10.90%,6.60%,9.20%,28.50%,22.50%,66,98033,93,0.9
+18,Franklin County,44%,27.60%,15.40%,16.50%,9.40%,29.10%,37.20%,2,11748,31,2.6
+19,Gadsden County,30.90%,9.80%,11.40%,3.50%,10.40%,15.60%,22.70%,15,47051,81,1.7
+20,Gilchrist County,41.50%,23.50%,15.20%,17.80%,8%,33.40%,34.90%,67,17197,16,0.9
+21,Glades County,32.60%,16.50%,15.80%,7.50%,9.40%,22.20%,32.80%,57,13111,14,1.1
+22,Gulf County,41.20%,23.60%,13%,11.20%,4.60%,34%,49.10%,17,16166,26,1.6
+23,Hamilton County,36.30%,19.30%,13.10%,14.50%,5.10%,19.20%,32.90%,11,15081,27,1.8
+24,Hardee County,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,34,28320,37,1.3
+25,Hendry County,31.10%,15.40%,10.20%,7.40%,7.80%,19.70%,25.20%,4,40226,85,2.1
+26,Hernando County,36.10%,17.70%,12.60%,6.70%,12.60%,30.30%,34.70%,59,176550,174,1
+27,Highlands County,35.20%,12.50%,8.80%,8.10%,7.90%,26.50%,29.50%,29,101096,137,1.4
+28,Hillsborough County,31.70%,9.80%,7.50%,3.80%,11.90%,23.30%,44.10%,30,1271061,1680,1.3
+29,Holmes County,36.40%,19.40%,10.80%,13.70%,3.70%,25.40%,42.30%,19,20330,31,1.5
+30,Indian River County,36.30%,12.60%,10.70%,5.70%,7.20%,30.50%,55.10%,37,140436,189,1.3
+31,Jackson County,46.40%,27.40%,17.60%,16.40%,6.50%,36.40%,26.40%,10,50730,90,1.8
+32,Jefferson County,34.10%,9.50%,6.80%,3.90%,9.90%,28%,47.70%,6,14961,30,2
+33,Lafayette County,38.50%,21.90%,12%,14.70%,6.30%,29.60%,17.30%,56,8991,10,1.1
+34,Lake County,35.40%,13%,8.80%,6.30%,8.20%,29.40%,27.80%,55,304196,333,1.1
+35,Lee County,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,41,632427,776,1.2
+36,Leon County,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,62,282170,247,0.9
+37,Levy County,41.40%,20.50%,14%,14.50%,8.80%,30%,27%,9,41627,80,1.9
+38,Liberty County,38.50%,19.10%,9.30%,14.80%,6.70%,27.30%,50.20%,38,8509,11,1.3
+39,Madison County,38.30%,21.40%,11.80%,14.40%,7.50%,27.40%,41.50%,13,19489,36,1.8
+40,Manatee County,33.80%,11.10%,9.30%,4.50%,6.80%,28%,35.50%,40,329689,406,1.2
+41,Marion County,38.70%,16.60%,10.30%,5.50%,8.20%,29.60%,31.60%,36,338623,446,1.3
+42,Martin County,37.70%,11.70%,10.30%,4.30%,8.50%,32.80%,32.20%,21,149346,224,1.5
+43,Miami-Dade County,39.80%,12.70%,8.30%,2.40%,18.10%,31.10%,30.90%,12,2559012,4539,1.8
+44,Monroe County,41.60%,15.70%,10%,6.60%,9.70%,35.20%,35.10%,1,74448,268,3.6
+45,Nassau County,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,28,74538,106,1.4
+46,Okaloosa County,33.10%,15.40%,9.70%,6.30%,6%,26.50%,24.10%,22,188621,290,1.5
+47,Okeechobee County,44%,20.70%,13.50%,11.60%,10.70%,34.40%,25.70%,14,40783,71,1.7
+48,Orange County,30.70%,9.80%,5.10%,2.20%,12.50%,24%,22.90%,39,1188365,1505,1.3
+49,Osceola County,29.20%,9.90%,6%,2.40%,14.60%,21.70%,18%,42,280612,350,1.2
+50,Palm Beach County,37.70%,9.60%,8.40%,3.60%,14.40%,30.60%,22.20%,54,1352453,1538,1.1
+51,Pasco County,35.80%,15.20%,9.60%,6.30%,9.20%,27.90%,22.10%,53,475935,532,1.1
+52,Pinellas County,37.90%,12.30%,8.90%,3.10%,9.30%,31.50%,37.90%,27,938117,1332,1.4
+53,Polk County,33.10%,13.80%,9.30%,6.30%,12.90%,25.70%,50.90%,44,617670,758,1.2
+54,Putnam County,36.40%,20.10%,12%,11.30%,8%,25.30%,29.90%,26,75731,108,1.4
+55,Santa Rosa County,33.30%,15.10%,11.20%,7.80%,7.10%,26.60%,35.60%,60,156237,150,1
+56,Sarasota County,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,45,385873,445,1.2
+57,Seminole County,33.70%,11.30%,8.20%,4%,8.40%,28.60%,18.40%,63,435957,403,0.9
+58,St. Johns County,37.20%,13.20%,9.90%,5.20%,10.20%,33.30%,23.90%,52,193604,215,1.1
+59,St. Lucie County,33.80%,10.80%,7.80%,3.20%,10%,27.10%,32.40%,51,285050,316,1.1
+60,Sumter County,32.30%,15.10%,12.10%,7.60%,6.10%,23.60%,38.80%,64,94521,81,0.9
+61,Suwannee County,43.30%,21.10%,12.20%,14.10%,5.30%,32.20%,20.90%,20,42362,62,1.5
+62,Taylor County,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,5,22979,45,2
+63,Union County,41.10%,25.50%,16.10%,19.40%,7.30%,29.30%,43.50%,61,15766,15,1
+64,Volusia County,38.10%,14.60%,10.30%,6.50%,7.70%,30.20%,15.20%,25,505842,688,1.4
+65,Wakulla County,44%,24.30%,13.90%,13.60%,7%,35.10%,29.60%,50,31365,35,1.1
+66,Walton County,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,Did not participate in 2018 Florida Youth Tobacco Survey,7,56392,107,1.9
+67,Washington County,46%,24.80%,16.90%,15.70%,8.80%,34.20%,41.20%,58,25436,29,1.1
+68,State Total,35.20%,12.80%,9%,5%,10.70%,27.90%,29.90%,N/A,19308975,25976,1.3
