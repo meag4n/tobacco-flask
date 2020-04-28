@@ -9,7 +9,7 @@ from wtforms import SubmitField, SelectField
 app = Flask(__name__)
 application = app
 
-app.config['SECRET_KEY'] = 'secret'
+app.config['SECRET_KEY'] = 'example_secret'
 
 username = 'example_user'
 password = 'example_pass'
